@@ -35,5 +35,5 @@ Access control flaws can leak credentials as well as data.
 - Used the discovered password to log in as `administrator`.
 - Deleted the user `carlos` to complete the lab.
 
-![Proof of Concept](access-control\screenshots\lab2.png)
+![Proof of Concept](screenshots/lab2.png)
 
