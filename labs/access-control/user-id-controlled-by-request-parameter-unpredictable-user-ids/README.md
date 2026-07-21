@@ -34,4 +34,4 @@ Exposed identifiers can become a direct path to unauthorized access.
 - Another user’s ID found in the application response
 - Modified request returned the other user’s data
 
-![Proof of Concept](screenshots/lab1.png)
+![Proof of Concept](../screenshots/lab1.png)

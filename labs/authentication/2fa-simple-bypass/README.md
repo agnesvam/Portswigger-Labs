@@ -36,4 +36,4 @@ Rotate and invalidate session tokens after login and logout.
 
 
 
-![Proof of Concept](screenshots/lab1.png)
+![Proof of Concept](../screenshots/lab1.png)

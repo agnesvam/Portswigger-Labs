@@ -37,4 +37,4 @@ Small response differences can reveal sensitive information.
 - Username confirmed as `applications`
 
 
-![Proof of Concept](screenshots/lab2.png)
+![Proof of Concept](../screenshots/lab2.png)
